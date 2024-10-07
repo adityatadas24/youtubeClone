@@ -3,7 +3,7 @@ import Navbar from "../components/Navbar/Navbar";
 import Sidebar from "../components/Sidebar/SideBar";
 import VideoItem from "../components/VideoItem/VideoItem";
 import BasicModal from "../components/Modal/Modal";
-import { categories } from "../constants/Index";
+import { categories } from "../Data";
 import Category from "../components/Category/Category";
 
 

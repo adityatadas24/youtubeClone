@@ -1,5 +1,5 @@
 import React, { Fragment } from "react";
-import { sidebarLinks } from "../../constants/Index";
+import { sidebarLinks } from "../../Data";
 import { Home, Video, TvMinimal, UserRound, History, Clock4, Flame, Music, Gamepad2, Trophy, TvMinimalPlay, ListMusic, Tv, Settings, Flag, CircleHelp, MessageSquareWarning } from "lucide-react";
 import { HeaderLeftSection } from "../Navbar/Navbar";
 
