@@ -103,7 +103,7 @@ export default function Dashboard() {
                         {prevPageToken && (
                             <button
                                 onClick={handlePrevPage}
-                                className="bg-blue-500 text-white px-4 py-2 rounded-md"
+                                className="bg-black text-white px-4 py-2 rounded-md dark:bg-white dark:text-black"
                             >
                                 Previous Page
                             </button>
@@ -112,7 +112,7 @@ export default function Dashboard() {
                         {nextPageToken && (
                             <button
                                 onClick={handleNextPage}
-                                className="bg-blue-500 text-white px-4 py-2 rounded-md"
+                                className="bg-black text-white px-4 py-2 rounded-md dark:bg-white dark:text-black "
                             >
                                 Next Page
                             </button>
